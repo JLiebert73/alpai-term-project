@@ -1,6 +1,6 @@
 # Training MAML with RK-2&4 in Pytorch 🚀
 **
-Group Project by: Nisarg Bhavsar, Akash Kaushik, Vedic Dutta, Ashesh Xalxo
+#Group Project by: Nisarg Bhavsar, Akash Kaushik, Vedic Dutta, Ashesh Xalxo
 
 
 Meta-learning[^1][^2] has become a cornerstone for developing models that quickly adapt to new tasks with limited data. The Model-Agnostic Meta-Learning (MAML) [^3] framework is particularly notable for its ability to fine-tune models efficiently across diverse tasks. This report extends the traditional MAML framework by incorporating fourth-order Runge-Kutta (RK4) methods [^4], aiming to enhance optimization beyond the capabilities of second-order methods previously used. 
